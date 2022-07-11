@@ -2,7 +2,7 @@
 
 This is the code for the paper "Twin Contrastive Learning for Online Clustering" (IJCV 2022). 
 
-TCL extends the previous work "Contrastive Clustering" (AAAI 2021, https://github.com/Yunfan-Li/Contrastive-Clustering) by selecting most confident predictions to finetune both the instance- and cluster-level contrastive learning.
+TCL extends the previous work "Contrastive Clustering" (AAAI 2021) by selecting most confident predictions to finetune both the instance- and cluster-level contrastive learning.
 
 TCL proposes to mix weak and strong augmentations for both image and text modality. More performance gains are observed by the twin contrastive learning framework compared with the standard instance-level contrastive learning.
 
