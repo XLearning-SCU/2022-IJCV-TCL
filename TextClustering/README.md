@@ -34,4 +34,4 @@ python evaluation.py --dataset Biomedical --eval_epoch 506 --model_path ./save/B
 
 ## License
 
-[Apache License 2.0](
+[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
