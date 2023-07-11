@@ -21,6 +21,7 @@ Paper Link: https://link.springer.com/article/10.1007/s11263-022-01639-z
 - opencv-python=4.6.0.66
 - scikit-learn=1.0.2
 - cudatoolkit=11.3.1
+- timm=0.6.11
 
 # Usage
 
